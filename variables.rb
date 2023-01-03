@@ -2,6 +2,9 @@
 name = "Angel Byun"
 email = "angel.byun@yahoo.com"
 greeting = "Hello!"
+name = "Angel"
+email = "abyun22@turing.edu"
+greeting = "Goodbye!"
 
 # Integers
 age = 33
