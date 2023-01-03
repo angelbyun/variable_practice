@@ -19,3 +19,8 @@ snowboarding_pass = 600.00
 pet_insurance_paid = true
 car_insurance_paid = true
 tuition_paid = false
+
+# Puts Statements
+puts [name]
+puts [email]
+puts [greeting]
